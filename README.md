@@ -6,7 +6,7 @@
 - 📫 How to reach me: it's easy, just send me a dm on twitter, say that it came from GitHub and show the code, I understand the basics of C, Java, Python, HTML, CSS, JavaScript, PHP,
 
 <div>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=willvern&theme=dark&show_icons=true">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=willvern&theme=dark&show_icons=true">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willvern&layout=compact&theme=dark">
  </div>
  

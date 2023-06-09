@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @Willvern, I am from Brazil 
 - 👀 I’m interested in Software programing
 - 🌱 I’m currently learning IT for the second time 
-- 📫 How to reach me: it's easy, just send me a dm on twitter, say that it came from GitHub and show the code, I understand the basics of C, Java, Python, HTML, CSS, JavaScript, PHP,
+- 📫 How to reach me: it's easy, just send me a dm on twitter, say that it came from GitHub and show the code, I understand the basics of C, Java, Python, HTML, CSS, JavaScript, PHP
+- And i'm learn Kotlin
 
 <div>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=willvern&theme=dark&show_icons=true">

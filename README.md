@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Willvern, I am from Brazil 
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently study HTML 
+- 🌱 I’m currently study HTML, Blueprint
 - 📫 How to reach me: it's easy, just send me a dm on twitter, say that it came from GitHub and show the code, I understand the basics of C, Java, Python, HTML, CSS, JavaScript, PHP
 - And i'm learn Kotlin
 
